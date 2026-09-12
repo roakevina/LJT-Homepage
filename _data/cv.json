@@ -73,36 +73,17 @@
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Natural Language Processing"
-    },
-    {
-      "name": "Machine Learning"
-    },
-    {
-      "name": "Large Language Models"
-    },
-    {
-      "name": "Reinforcement Learning"
-    },
-    {
-      "name": "Vision-Language Models"
-    }
-  ],
+  "skills": [],
   "languages": [],
   "interests": [
     {
-      "name": "LLM Reasoning"
+      "name": "LLM Reasoning and Reinforcement Learning"
     },
     {
-      "name": "LLM Truthfulness"
+      "name": "Hallucination in Vision-Language Models (VLM)"
     },
     {
-      "name": "Model Interpretability"
-    },
-    {
-      "name": "VLM Hallucination"
+      "name": "LLM Truthfulness and Interpretability"
     }
   ],
   "references": [],
